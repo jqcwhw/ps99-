@@ -82,7 +82,8 @@
     "zod": "^3.24.2",
     "zod-validation-error": "^3.4.0",
     "cross-env": "*",
-    "next": "*"
+    "next": "*",
+    "vite": "*"
   },
   "devDependencies": {
     "@replit/vite-plugin-cartographer": "^0.2.7",
