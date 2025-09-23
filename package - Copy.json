@@ -78,7 +78,8 @@
     "xml2js": "^0.6.2",
     "yauzl": "^3.2.0",
     "zod": "^3.24.2",
-    "zod-validation-error": "^3.4.0"
+    "zod-validation-error": "^3.4.0",
+    "next": "*"
   },
   "devDependencies": {
     "@replit/vite-plugin-cartographer": "^0.2.7",
@@ -102,7 +103,8 @@
     "tailwindcss": "^3.4.17",
     "tsx": "^4.19.1",
     "typescript": "5.6.3",
-    "vite": "^5.4.19"
+    "vite": "^5.4.19",
+    "next": "*"
   },
   "optionalDependencies": {
     "bufferutil": "^4.0.8"
