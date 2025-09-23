@@ -1,6 +1,6 @@
 {
   "name": "vite-express",
-  "main": "electron-standalone",
+  "main": "electron-standalone.js",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
